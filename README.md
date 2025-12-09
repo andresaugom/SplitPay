@@ -1,5 +1,4 @@
 # SplitPay  
-
 ### HackMTY 2024 — 36-Hour Hackathon Project in Collaboration with **Capital One**
 
 SplitPay is a proof-of-concept platform built during **HackMTY**, one of the largest hackathons in Latin America, developed in collaboration with **Capital One**.  
@@ -83,4 +82,41 @@ Rapid prototyping, clean UX, and clear demonstration of group-payment feasibilit
 ```sh
 git clone https://github.com/andresaugom/SplitPay-F.git
 git clone https://github.com/andresaugom/SplitPay-B.git
+````
+
+### Run the frontend:
+
+```sh
+cd SplitPay-F
+npm install
+npm run dev
+```
+
+### Run the backend:
+
+```sh
+cd SplitPay-B
+npm install
+npm start
+```
+
+---
+
+## Project Status
+
+This is a **hackathon proof-of-concept**, built in 36 hours.
+It is not a production system and does not represent an official Capital One product.
+
+---
+
+## License
+
+Check each repository to see it's own license.
+
+---
+
+## Team & Credits
+
+* Developed for **HackMTY 2025**
+* Built in collaboration with **Capital One's hackathon program**
 
